@@ -1,5 +1,7 @@
 # Clever Programmer ReactJS Portfolio Template
 
+<a href="https://github.com/CleverProgrammers/react-portfolio">Clever Programmers Template</a>
+
 ## Credits
 
 #### All Credits Goes to Tim Baker <a href='https://github.com/tbakerx/react-resume-template'>Original Repo</a>

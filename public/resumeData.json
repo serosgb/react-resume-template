@@ -10,25 +10,25 @@
     "phone": "",
     "address": {
       "street": "",
-      "city": "",
+      "city": "Mexico",
       "state": "Mexico",
       "zip": "44300"
     },
-    "website": "http://www.timbakerdev.com",
-    "resumedownload": "http://timbakerdev.com",
+    "website": "http://www.serosgb.lab",
+    "resumedownload": "#",
     "social": [{
         "name": "facebook",
-        "url": "https://www.facebook.com/sonny.sangha.3",
+        "url": "https://www.facebook.com/serosgb",
         "className": "fa fa-facebook"
       },
       {
         "name": "linkedin",
-        "url": "https://www.linkedin.com/in/saajansangha/",
+        "url": "https://www.linkedin.com/in/ser0s/",
         "className": "fa fa-linkedin"
       },
       {
         "name": "instagram",
-        "url": "https://www.instagram.com/ssssangha/",
+        "url": "https://www.instagram.com/serosgb/",
         "className": "fa fa-instagram"
       },
       {
@@ -39,24 +39,24 @@
     ]
   },
   "resume": {
-    "skillmessage": "Here you can create a short write-up of your skills to show off to employers",
+    "skillmessage": "I am a computer science engineer and I have been a full-stack developer since 1999. Furthermore, I have played several roles in the software development industry.",
     "education": [{
-      "school": "University of Kent",
-      "degree": "Masters in Advanced Computer Science",
-      "graduated": "January 2017",
-      "description": "Graduated with Distinction"
+      "school": "University of Puebla State",
+      "degree": "BSC Computer Science",
+      "graduated": "August 2000",
+      "description": ""
     }],
     "work": [{
-        "company": "Clever Programmer",
-        "title": "Team Member && React Specialist",
-        "years": "April 2020 - Present",
-        "description": "Teaching ReactJS to thousands of students."
+        "company": "Volkswage Group of America",
+        "title": "Software Specialist",
+        "years": "June 2018 - Present",
+        "description": "Developing new features for an incentives Web application"
       },
       {
-        "company": "Lindar Media",
-        "title": "Software Engineer",
-        "years": "Nov 2019 - April 2020",
-        "description": "Building MrQ, a gambling website."
+        "company": "T-Systems",
+        "title": "Technical leader",
+        "years": "August 2009 - May 2019",
+        "description": "Leading development teams and developing software"
       }
     ],
     "skills": [{
@@ -93,42 +93,42 @@
         "title": "MERN Stack WhatsApp Clone",
         "category": "WhatsApp Clone built with MERN (MongoDB, ExpressJS, ReactJS, NodeJS)",
         "image": "whatsapp-mern.jpeg",
-        "url": "https://www.youtube.com/watch?v=gzdQDxzW2Tw"
+        "url": "#"
       },
       {
         "title": "MERN Stack TikTok Clone",
         "category": "TikTok Clone built with MERN (MongoDB, ExpressJS, ReactJS, NodeJS)",
         "image": "tiktok-mern.jpeg",
-        "url": "https://www.youtube.com/watch?v=g8yGxDMyGiE"
+        "url": "#"
       },
       {
         "title": "Facebook Clone with React",
         "category": "Facebook Clone built with ReactJS",
         "image": "facebook-clone.png",
-        "url": "https://www.youtube.com/watch?v=B-kxUMHBxNo"
+        "url": "#"
       },
       {
         "title": "Airbnb Clone",
         "category": "Facebook Clone built with ReactJS",
         "image": "airbnb-clone.jpeg",
-        "url": "https://www.youtube.com/watch?v=BtJeH_-XYaA"
+        "url": "#"
       },
       {
         "title": "Netflix Clone",
         "category": "Facebook Clone built with ReactJS",
         "image": "netflix-clone.jpeg",
-        "url": "https://www.youtube.com/watch?v=XtMThy8QKqU&t=9358s"
+        "url": "#"
       }
     ]
   },
   "testimonials": {
     "testimonials": [{
-        "text": "Here you should write some nice things that someone has said about you. No lies though, employers can tell when you are lying.",
-        "user": "Kareem Abdul Jabbar"
+        "text": "Great mentor!",
+        "user": "Victor Garcia"
       },
       {
-        "text": "That Sonny Sangha must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh out of University and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
-        "user": "Steve Wozniak... impersonator"
+        "text": "Nice people",
+        "user": "Joe Doe"
       }
     ]
   }
